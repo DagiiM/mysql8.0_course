@@ -2,4 +2,5 @@
 Contains simple CRUID Tasks
 
 ### References ###
-https://dev.mysql.com/doc/refman/8.0/en/creating-tables.html
+1. https://dev.mysql.com/doc/refman/8.0/en/creating-tables.html
+2. https://www.youtube.com/watch?v=en6YPAgc6WM
