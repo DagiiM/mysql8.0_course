@@ -28,3 +28,5 @@ SELECT id AS UserID,first_name,last_name FROM employees WHERE id=1;
  * https://www.youtube.com/watch?v=en6YPAgc6WM
  * 
  */
+
+ /*     Update Table information    */
